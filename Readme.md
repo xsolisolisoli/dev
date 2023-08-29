@@ -1,7 +1,10 @@
+A Cute Little Witch-Themed Shmup Written for Gameboy!
 
-An minimal template project with a Makefile that only compiles files in the same directory
-
-The Makefile will automatically detect and compile new source files as long 
-as they are placed in the same directory as the Makefile
-
+DONE: Created Player Sprite 16x16, added basic key movement
+    Clamp x and y to fit in screen
+TODO: 
+Add projectile on input 'A'
+Add enemy
+Add collision
+Add health
 
